@@ -1,3 +1,3 @@
 # Sample readme
 
-Created by Amlan Sahu
+Created by Amlan Sahu.
